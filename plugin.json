@@ -1,0 +1,9 @@
+{
+    "name": "CrealityThumbnail",
+    "author": "Creality",
+    "version": "0.1",
+    "api": 6,
+    "supported_sdk_versions": ["6.0.0", "7.0.0"],
+    "description": "Save file as Creality thumbnail form",
+    "catalog": "uranium"
+}
