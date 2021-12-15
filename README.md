@@ -18,7 +18,7 @@ This is an output device plug-in for model previews
 1. Open the STL model in Cura and click Slice
 2. Select Save as Creality format
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/22795356/1639540560987-bfd3718a-c050-40d6-bafb-9bfae795c64f.png#clientId=u2eed4c13-d33a-4&crop=0&crop=0&crop=1&crop=1&from=drop&id=uda760507&margin=%5Bobject%20Object%5D&name=image.png&originHeight=122&originWidth=333&originalType=binary&ratio=1&rotation=0&showTitle=false&size=6004&status=done&style=none&taskId=u63be5ad8-aabf-4bd2-b076-96a8475c315&title=)
-3. After saving the file to the TF card, you can view the preview:
+4. After saving the file to the TF card, you can view the preview:
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/22795356/1639548421171-99b811df-8518-46ca-8004-1345ba207a51.png#clientId=ue8ca2024-4847-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=624&id=u991a79f3&margin=%5Bobject%20Object%5D&name=image.png&originHeight=624&originWidth=704&originalType=binary&ratio=1&rotation=0&showTitle=false&size=520631&status=done&style=none&taskId=uc634fa32-f9a0-498d-979d-a8efd7985e4&title=&width=704)
 
 
