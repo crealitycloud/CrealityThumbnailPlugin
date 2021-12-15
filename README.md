@@ -2,7 +2,7 @@ Creality Output Device
 =====================
 
 This is an output device plug-in for model previews
-![b33addb0-e85b-4624-a0c1-53e9ff214360.jpg](https://cdn.nlark.com/yuque/0/2021/jpeg/22795356/1639541247991-3639d58c-009e-4fa5-b052-fa4df2ef9934.jpeg#clientId=u2eed4c13-d33a-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=480&id=Zx5QQ&margin=%5Bobject%20Object%5D&name=b33addb0-e85b-4624-a0c1-53e9ff214360.jpg&originHeight=1920&originWidth=1080&originalType=binary&ratio=1&rotation=0&showTitle=false&size=408118&status=done&style=none&taskId=u1902d0aa-91ae-4f38-bb9a-f3c0047ef2a&title=&width=270)
+![image.png](https://cdn.nlark.com/yuque/0/2021/png/22795356/1639548492881-1d3012d7-6164-420d-993d-c77fbced05c7.png#clientId=u57204282-6281-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=480&id=u6aea2947&margin=%5Bobject%20Object%5D&name=image.png&originHeight=480&originWidth=270&originalType=binary&ratio=1&rotation=0&showTitle=false&size=171318&status=done&style=none&taskId=u0dcbbe93-b0dc-4468-b1cc-b5f2c36dc78&title=&width=270)
 # How to install
 
 ---
@@ -30,5 +30,6 @@ This is an output device plug-in for model previews
 
 3. After saving the file to the TF card, you can view the preview:
 
-![2f185914-01a9-4dca-b938-616dcdde75b6.jpg](https://cdn.nlark.com/yuque/0/2021/jpeg/22795356/1639541196714-379f5138-2b83-4dc1-bfcf-9bcb69a61f5c.jpeg#clientId=u2eed4c13-d33a-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=480&id=u1b082210&margin=%5Bobject%20Object%5D&name=2f185914-01a9-4dca-b938-616dcdde75b6.jpg&originHeight=1920&originWidth=1079&originalType=binary&ratio=1&rotation=0&showTitle=false&size=420448&status=done&style=none&taskId=u25b88041-bca1-4c3a-85dd-ee524e3dd56&title=&width=270)![b33addb0-e85b-4624-a0c1-53e9ff214360.jpg](https://cdn.nlark.com/yuque/0/2021/jpeg/22795356/1639541247991-3639d58c-009e-4fa5-b052-fa4df2ef9934.jpeg#clientId=u2eed4c13-d33a-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=480&id=uac235a92&margin=%5Bobject%20Object%5D&name=b33addb0-e85b-4624-a0c1-53e9ff214360.jpg&originHeight=1920&originWidth=1080&originalType=binary&ratio=1&rotation=0&showTitle=false&size=408118&status=done&style=none&taskId=u1902d0aa-91ae-4f38-bb9a-f3c0047ef2a&title=&width=270)
+![image.png](https://cdn.nlark.com/yuque/0/2021/png/22795356/1639548421171-99b811df-8518-46ca-8004-1345ba207a51.png#clientId=ue8ca2024-4847-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=624&id=u991a79f3&margin=%5Bobject%20Object%5D&name=image.png&originHeight=624&originWidth=704&originalType=binary&ratio=1&rotation=0&showTitle=false&size=520631&status=done&style=none&taskId=uc634fa32-f9a0-498d-979d-a8efd7985e4&title=&width=704)
+
 
