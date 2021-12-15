@@ -41,11 +41,11 @@ class Save_File(OutputDevice):
         self.setName("save_with_screenshot")
         self.setPriority(2)
         self._preferences = Application.getInstance().getPreferences()
-        name1 = "Save gcode as Creality form"
+        name1 = "Save as Creality format"
         if CuraApplication.getInstance().getPreferences().getValue("general/language") == "zh_CN":
-            name1 = "以创想三维格式保存文件"
+            name1 = "以创想三维格式保存"
         else:
-            name1 = "Save gcode as Creality format"
+            name1 = "Save as Creality format"
         self.setShortDescription(catalog.i18nc("@action:button", name1))
         self.setDescription(catalog.i18nc("@properties:tooltip", name1))
         self.setIconName("save")
