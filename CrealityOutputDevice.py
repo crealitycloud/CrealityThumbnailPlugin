@@ -45,7 +45,7 @@ class Save_File(OutputDevice):
         if CuraApplication.getInstance().getPreferences().getValue("general/language") == "zh_CN":
             name1 = "以创想三维格式保存文件"
         else:
-            name1 = "Save gcode as Creality form"
+            name1 = "Save gcode as Creality format"
         self.setShortDescription(catalog.i18nc("@action:button", name1))
         self.setDescription(catalog.i18nc("@properties:tooltip", name1))
         self.setIconName("save")
