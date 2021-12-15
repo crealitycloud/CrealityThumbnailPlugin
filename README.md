@@ -2,10 +2,10 @@ Creality Output Device
 =====================
 
 This is an output device plug-in for model previews
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/22795356/1639548492881-1d3012d7-6164-420d-993d-c77fbced05c7.png#clientId=u57204282-6281-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=480&id=u6aea2947&margin=%5Bobject%20Object%5D&name=image.png&originHeight=480&originWidth=270&originalType=binary&ratio=1&rotation=0&showTitle=false&size=171318&status=done&style=none&taskId=u0dcbbe93-b0dc-4468-b1cc-b5f2c36dc78&title=&width=270)
-# How to install
 
----
+![image.png](https://cdn.nlark.com/yuque/0/2021/png/22795356/1639548492881-1d3012d7-6164-420d-993d-c77fbced05c7.png#clientId=u57204282-6281-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=480&id=u6aea2947&margin=%5Bobject%20Object%5D&name=image.png&originHeight=480&originWidth=270&originalType=binary&ratio=1&rotation=0&showTitle=false&size=171318&status=done&style=none&taskId=u0dcbbe93-b0dc-4468-b1cc-b5f2c36dc78&title=&width=270)
+
+# How to install
 
 1. Download the latest [curapackage file](https://github.com/crealitycloud/CrealityThumbnailPlugin/releases)
 
@@ -17,11 +17,7 @@ This is an output device plug-in for model previews
 
 3. restart cura
 
----
-
 # How to use
-
----
 
 1. Open the STL model in Cura and click Slice​
 1. Select Save as Creality format
